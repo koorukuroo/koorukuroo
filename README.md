@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm an avid Python programmer and interested in the developments of new algorithms inspired by nature.
+
+[![koorukuroo's github stats](https://github-readme-stats.vercel.app/api?username=koorukuroo&show_icons=true)](https://github.com/koorukuroo/koorukuroo)
+
 <!--
 **koorukuroo/koorukuroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -47,7 +47,7 @@
 
 
 ## 📫 연락 방법
-- **LinkedIn**: [https://www.linkedin.com/in/koorukuroo/](https://www.linkedin.com/in/koorukuroo/)
+- **LinkedIn**: [https://www.linkedin.com/in/kyunghoon/](https://www.linkedin.com/in/kyunghoon/)
 - **Instagram**: [https://www.instagram.com/kyunghoon.today](https://www.instagram.com/kyunghoon.today)
 
 [![koorukuroo's github stats](https://github-readme-stats.vercel.app/api?username=koorukuroo&show_icons=true)](https://github.com/koorukuroo/koorukuroo)
